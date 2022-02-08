@@ -1,0 +1,19 @@
+C:\Users\Lucio\source\repos\CompresorAC\CompresorAC\bin\Debug\CompresorAC.exe.config
+C:\Users\Lucio\source\repos\CompresorAC\CompresorAC\bin\Debug\CompresorAC.exe
+C:\Users\Lucio\source\repos\CompresorAC\CompresorAC\bin\Debug\CompresorAC.pdb
+C:\Users\Lucio\source\repos\CompresorAC\CompresorAC\obj\Debug\CompresorAC.Compresor.resources
+C:\Users\Lucio\source\repos\CompresorAC\CompresorAC\obj\Debug\CompresorAC.Properties.Resources.resources
+C:\Users\Lucio\source\repos\CompresorAC\CompresorAC\obj\Debug\CompresorAC.csproj.GenerateResource.cache
+C:\Users\Lucio\source\repos\CompresorAC\CompresorAC\obj\Debug\CompresorAC.csproj.CoreCompileInputs.cache
+C:\Users\Lucio\source\repos\CompresorAC\CompresorAC\obj\Debug\CompresorAC.exe
+C:\Users\Lucio\source\repos\CompresorAC\CompresorAC\obj\Debug\CompresorAC.pdb
+C:\Users\Soporte Sistemas\source\repos\CompresorAC\CompresorAC\CompresorAC\bin\Debug\CompresorAC.exe.config
+C:\Users\Soporte Sistemas\source\repos\CompresorAC\CompresorAC\CompresorAC\bin\Debug\CompresorAC.exe
+C:\Users\Soporte Sistemas\source\repos\CompresorAC\CompresorAC\CompresorAC\bin\Debug\CompresorAC.pdb
+C:\Users\Soporte Sistemas\source\repos\CompresorAC\CompresorAC\CompresorAC\obj\Debug\CompresorAC.csprojAssemblyReference.cache
+C:\Users\Soporte Sistemas\source\repos\CompresorAC\CompresorAC\CompresorAC\obj\Debug\CompresorAC.Compresor.resources
+C:\Users\Soporte Sistemas\source\repos\CompresorAC\CompresorAC\CompresorAC\obj\Debug\CompresorAC.Properties.Resources.resources
+C:\Users\Soporte Sistemas\source\repos\CompresorAC\CompresorAC\CompresorAC\obj\Debug\CompresorAC.csproj.GenerateResource.cache
+C:\Users\Soporte Sistemas\source\repos\CompresorAC\CompresorAC\CompresorAC\obj\Debug\CompresorAC.csproj.CoreCompileInputs.cache
+C:\Users\Soporte Sistemas\source\repos\CompresorAC\CompresorAC\CompresorAC\obj\Debug\CompresorAC.exe
+C:\Users\Soporte Sistemas\source\repos\CompresorAC\CompresorAC\CompresorAC\obj\Debug\CompresorAC.pdb
